@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     var startTime = Date()
     var diceRollSpeed : Double = 0.25
     var dotNumber = 1
+    var inPlay : Bool = false
     
     //Dice
     var randomDiceIndex_Left: Int = 0
@@ -42,17 +43,22 @@ class ViewController: UIViewController {
    
     
     @IBAction func RollDiceButton_Pressed(_ sender: UIButton) {
-    
+        if (inPlay == false) {
         rollDice()
+            inPlay = true
         
        // print("Left Dice: \(randomDiceIndex_Left)    |   Right Dice: \(randomDiceIndex_Right) ")
     }
+    }
     
     @IBAction func stopRoll_Pressed(_ sender: UIButton) {
-        
+        if (inPlay == true) {
         endDiceRoll()
+            inPlay = false
+        }
     }
-    /*
+        
+        /*
     @IBAction func diceToss_touched(_ gesterRecognizer: UILongPressGestureRecognizer) {
         
         if gesterRecognizer.state == .began {
