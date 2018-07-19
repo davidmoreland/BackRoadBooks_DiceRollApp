@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>BackRoads_Dice.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
 		<key>Dicee.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F61B4B4B20FD939B0051CE56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F61B4B5F20FD93A30051CE56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F61B4B6A20FD93A30051CE56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

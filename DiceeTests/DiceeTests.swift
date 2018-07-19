@@ -7,7 +7,8 @@
 //
 
 import XCTest
-@testable import Dicee
+@testable import BackRoads_Dice
+
 
 class DiceeTests: XCTestCase {
     

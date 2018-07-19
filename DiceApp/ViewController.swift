@@ -142,7 +142,7 @@ class ViewController: UIViewController {
         rolledValue?.text = String( randomDiceIndex_Left + randomDiceIndex_Right)
         
         //test
-        print("Rolled #: \(rolledValue)")
+        print("Rolled #: \(String(describing: rolledValue))")
         
         
     }

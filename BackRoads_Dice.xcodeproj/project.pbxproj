@@ -14,6 +14,13 @@
 		F61B4B5A20FD93A30051CE56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F61B4B5820FD93A30051CE56 /* LaunchScreen.storyboard */; };
 		F61B4B6520FD93A30051CE56 /* DiceeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61B4B6420FD93A30051CE56 /* DiceeTests.swift */; };
 		F61B4B7020FD93A30051CE56 /* DiceeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61B4B6F20FD93A30051CE56 /* DiceeUITests.swift */; };
+		F633263D20FF9F500013A26E /* Button_Roll_Wood_Ragged@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F633263920FF9F4C0013A26E /* Button_Roll_Wood_Ragged@2x.png */; };
+		F633263E20FF9F500013A26E /* Button_Roll_Wood_Ragged@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F633263A20FF9F4D0013A26E /* Button_Roll_Wood_Ragged@3x.png */; };
+		F633263F20FF9F500013A26E /* Button_Stop_Wood_Ragged@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F633263B20FF9F4E0013A26E /* Button_Stop_Wood_Ragged@2x.png */; };
+		F633264020FF9F500013A26E /* Button_Stop_Wood_Ragged@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F633263C20FF9F4F0013A26E /* Button_Stop_Wood_Ragged@3x.png */; };
+		F633264221001ECA0013A26E /* icon1024.png in Resources */ = {isa = PBXBuildFile; fileRef = F633264121001ECA0013A26E /* icon1024.png */; };
+		F633264421001EDF0013A26E /* icon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F633264321001EDF0013A26E /* icon60@2x.png */; };
+		F633264621001EEC0013A26E /* icon40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F633264521001EEB0013A26E /* icon40@3x.png */; };
 		F6B70B2F20FECD5A008B5FA3 /* Button_Roll_Wood.png in Resources */ = {isa = PBXBuildFile; fileRef = F6B70B2D20FECD57008B5FA3 /* Button_Roll_Wood.png */; };
 		F6B70B3020FECD5A008B5FA3 /* Button_Stop_Wood.png in Resources */ = {isa = PBXBuildFile; fileRef = F6B70B2E20FECD59008B5FA3 /* Button_Stop_Wood.png */; };
 /* End PBXBuildFile section */
@@ -49,6 +56,13 @@
 		F61B4B6B20FD93A30051CE56 /* BackRoads_DiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BackRoads_DiceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F61B4B6F20FD93A30051CE56 /* DiceeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceeUITests.swift; sourceTree = "<group>"; };
 		F61B4B7120FD93A30051CE56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F633263920FF9F4C0013A26E /* Button_Roll_Wood_Ragged@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button_Roll_Wood_Ragged@2x.png"; sourceTree = "<group>"; };
+		F633263A20FF9F4D0013A26E /* Button_Roll_Wood_Ragged@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button_Roll_Wood_Ragged@3x.png"; sourceTree = "<group>"; };
+		F633263B20FF9F4E0013A26E /* Button_Stop_Wood_Ragged@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button_Stop_Wood_Ragged@2x.png"; sourceTree = "<group>"; };
+		F633263C20FF9F4F0013A26E /* Button_Stop_Wood_Ragged@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button_Stop_Wood_Ragged@3x.png"; sourceTree = "<group>"; };
+		F633264121001ECA0013A26E /* icon1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1024.png; sourceTree = "<group>"; };
+		F633264321001EDF0013A26E /* icon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon60@2x.png"; sourceTree = "<group>"; };
+		F633264521001EEB0013A26E /* icon40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon40@3x.png"; sourceTree = "<group>"; };
 		F6B70B2D20FECD57008B5FA3 /* Button_Roll_Wood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_Roll_Wood.png; sourceTree = "<group>"; };
 		F6B70B2E20FECD59008B5FA3 /* Button_Stop_Wood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_Stop_Wood.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -105,9 +119,16 @@
 				F61B4B5120FD939B0051CE56 /* ViewController.swift */,
 				F61B4B5320FD939B0051CE56 /* Main.storyboard */,
 				F61B4B5620FD93A30051CE56 /* Assets.xcassets */,
+				F633263920FF9F4C0013A26E /* Button_Roll_Wood_Ragged@2x.png */,
+				F633263A20FF9F4D0013A26E /* Button_Roll_Wood_Ragged@3x.png */,
+				F633263B20FF9F4E0013A26E /* Button_Stop_Wood_Ragged@2x.png */,
+				F633263C20FF9F4F0013A26E /* Button_Stop_Wood_Ragged@3x.png */,
+				F633264521001EEB0013A26E /* icon40@3x.png */,
 				F6B70B2D20FECD57008B5FA3 /* Button_Roll_Wood.png */,
 				F6B70B2E20FECD59008B5FA3 /* Button_Stop_Wood.png */,
+				F633264121001ECA0013A26E /* icon1024.png */,
 				F61B4B5820FD93A30051CE56 /* LaunchScreen.storyboard */,
+				F633264321001EDF0013A26E /* icon60@2x.png */,
 				F61B4B5B20FD93A30051CE56 /* Info.plist */,
 			);
 			path = DiceApp;
@@ -235,9 +256,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F633264621001EEC0013A26E /* icon40@3x.png in Resources */,
 				F6B70B3020FECD5A008B5FA3 /* Button_Stop_Wood.png in Resources */,
+				F633263E20FF9F500013A26E /* Button_Roll_Wood_Ragged@3x.png in Resources */,
 				F61B4B5A20FD93A30051CE56 /* LaunchScreen.storyboard in Resources */,
+				F633264221001ECA0013A26E /* icon1024.png in Resources */,
+				F633263D20FF9F500013A26E /* Button_Roll_Wood_Ragged@2x.png in Resources */,
+				F633264020FF9F500013A26E /* Button_Stop_Wood_Ragged@3x.png in Resources */,
+				F633264421001EDF0013A26E /* icon60@2x.png in Resources */,
 				F61B4B5720FD93A30051CE56 /* Assets.xcassets in Resources */,
+				F633263F20FF9F500013A26E /* Button_Stop_Wood_Ragged@2x.png in Resources */,
 				F61B4B5520FD939B0051CE56 /* Main.storyboard in Resources */,
 				F6B70B2F20FECD5A008B5FA3 /* Button_Roll_Wood.png in Resources */,
 			);
@@ -448,7 +476,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "net.digitalsuccess-systems.BackroadsDice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -466,7 +494,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "net.digitalsuccess-systems.BackroadsDice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
